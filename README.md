@@ -139,6 +139,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Seer Trading](http://www.seertrading.com) - R Backtest and live trading
 
+* [python programming finance](https://pythonprogramming.net/finance-tutorials/) -- python finance tutorial and quantopian toturial
+
 * [Portfolio Effect](https://www.portfolioeffect.com/) -- real time portfolio and risk management
 
 * [www.quant365.com](http://www.quant365.com/) -- Henry Moo's blog and trading system; including Sentosa,[pysentosa binding](https://github.com/henrywoo/pysentosa), rsentosa binding and [qblog](https://github.com/henrywoo/qblog).
