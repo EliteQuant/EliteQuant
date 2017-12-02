@@ -49,6 +49,10 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [IbPy](https://github.com/blampe/IbPy)  - Interactive Brokers Python API
 
+* [gotrade](https://github.com/cyanly/gotrade/)  - Electronic trading and order management system written in Golang
+
+* [OpenHFT](https://github.com/OpenHFT)  - Java components for high-frequency trading
+
 * [libtrading](https://github.com/libtrading/libtrading) -- c api, low latency, fix support
 
 * [thOth](https://github.com/vermosen/thOth) -- open-source high frequency trading library in C++ 11
