@@ -79,7 +79,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [StockTicker](https://github.com/danielmarbach/StockTicker)  - C# trading system
 
-* [Matlab Trading Toolbox](https://www.mathworks.com/products/trading.html)  - Official toolbox from Matlab; acommpanying [Introduction to Matlab Trading Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/52588-automated-trading-system-development-with-matlab?focused=5253184&tab=example), and [webinar Automated Trading System Development with MATLAB](https://www.mathworks.com/videos/automated-trading-system-development-with-matlab-106851.html), and [webinar Automated Trading with MATLAB](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), as well as [webinar A Real-Time Trading System in MATLAB](https://www.mathworks.com/videos/a-real-time-trading-system-in-matlab-92900.html)
+* [Matlab Trading Toolbox](https://www.mathworks.com/products/trading.html)  - Official toolbox from Matlab; acommpanying [Introduction to Matlab Trading Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/52588-automated-trading-system-development-with-matlab?focused=5253184&tab=example), and [webinar Automated Trading System Development with MATLAB](https://www.mathworks.com/videos/automated-trading-system-development-with-matlab-106851.html), and [webinar Automated Trading with MATLAB](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), as well as [webinar A Real-Time Trading System in MATLAB](https://www.mathworks.com/videos/a-real-time-trading-system-in-matlab-92900.html), [Automated Trading with Matlab](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), [Commodities Trading with Matlab](https://www.mathworks.com/videos/commodities-trading-with-matlab-81986.html), [Cointegration and Pairs Trading with Econometrics Toolbox](https://www.mathworks.com/videos/cointegration-and-pairs-trading-with-econometrics-toolbox-81799.html)
 
 * [Matlab risk management Toolbox](https://www.mathworks.com/products/risk-management.htmll)  - Official toolbox from Matlab
 
@@ -143,17 +143,25 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Seer Trading](http://www.seertrading.com) - R Backtest and live trading
 
+* [Trading with Python](http://tradingwithpython.blogspot.com/)
+
 * [python programming finance](https://pythonprogramming.net/finance-tutorials/) -- python finance tutorial and quantopian toturial
 
 * [Portfolio Effect](https://www.portfolioeffect.com/) -- real time portfolio and risk management
 
 * [www.quant365.com](http://www.quant365.com/) -- Henry Moo's blog and trading system; including Sentosa,[pysentosa binding](https://github.com/henrywoo/pysentosa), rsentosa binding and [qblog](https://github.com/henrywoo/qblog).
 
+* [hpc quantlib](https://hpcquantlib.wordpress.com/) -- HPC + QuantLib
+
+* [Quant Corner](https://quantcorner.wordpress.com/)
+
 * [quantstrat trader](https://quantstrattrader.wordpress.com/) - Backtesting trading ideas with R [QuantStrat](https://github.com/R-Finance/quantstrat) package
 
 * [Backtesting Strategies](https://timtrice.github.io/backtesting-strategies/) - Backtesting in R; codes at [Github](https://github.com/timtrice/backtesting-strategies)
 
 * [The Quant MBA](https://thequantmba.wordpress.com/) - good quant blog
+
+* [Foss Trading](http://blog.fosstrading.com/) - Algorithmic trading with free open source software
 
 * [Gekko Quant](http://gekkoquant.com/) - Quantitative Trading
 
@@ -167,7 +175,21 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Timely Portfolio](http://timelyportfolio.blogspot.com/) - Strategies and tests in R
 
+* [Quantitative Research and Trading](http://jonathankinlay.com/)
+
 * [Qusma](http://qusma.com/) - Quantitative Systematic Market Analysis
+
+* [Physics of Finance](http://physicsoffinance.blogspot.com/) -- Inspiration from physics for thinking about economics, finance and social systems
+
+* [Quantum Financier](https://quantumfinancier.wordpress.com/) -- algorithmic trading
+
+* [Trading the Odds](http://www.tradingtheodds.com/) -- market timing & quantitative analysis
+
+* [CSSA](https://cssanalytics.wordpress.com/) -- new concepts in quantitative research
+
+* [The Practical Quant](http://practicalquant.blogspot.com/)
+
+* [Tr8dr](https://tr8dr.github.io/) - strategies, statistics, computer science, numerical techniques
 
 * [Deniz's Note](http://denizstij.blogspot.com/) - blog of a quant Deniz Turan
 
@@ -178,9 +200,17 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [rbresearch](https://rbresearch.wordpress.com/) - Using R for trading strategy ideas in FX and equity 
 markets
 
+* [NaN Quantivity](https://quantlife.wordpress.com/) - quant trading, statistical learning, coding and brainstorming
+
 * [Factor Investing](https://factorinvestingtutorial.wordpress.com/) - blog on wordpress
 
+* [Meb Faber Research](http://mebfaber.com/)
+
 * [Big Mike Trading](https://www.youtube.com/user/BigMikeTrading/videos) - Youtube chanel in quant trading
+
+* [Mechanical Markets](https://mechanicalmarkets.wordpress.com/)
+
+* [Humble Student of the Markets](http://humblestudentofthemarkets.blogspot.com/)
 
 ## Papers and Books
 
