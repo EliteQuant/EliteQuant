@@ -79,6 +79,14 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [StockTicker](https://github.com/danielmarbach/StockTicker)  - C# trading system
 
+* [btcrobot](https://github.com/philsong/btcrobot) - Golang bitcoin trading bot
+
+* [gotrade](https://github.com/cyanly/gotrade) - an electronic trading system written in Golang 
+
+* [gofinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging in golang
+
+* [goib](https://github.com/gofinance/ib) - Pure Go interface to Interactive Brokers IB API 
+
 * [Matlab Trading Toolbox](https://www.mathworks.com/products/trading.html)  - Official toolbox from Matlab; acommpanying [Introduction to Matlab Trading Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/52588-automated-trading-system-development-with-matlab?focused=5253184&tab=example), and [webinar Automated Trading System Development with MATLAB](https://www.mathworks.com/videos/automated-trading-system-development-with-matlab-106851.html), and [webinar Automated Trading with MATLAB](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), as well as [webinar A Real-Time Trading System in MATLAB](https://www.mathworks.com/videos/a-real-time-trading-system-in-matlab-92900.html), [Automated Trading with Matlab](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), [Commodities Trading with Matlab](https://www.mathworks.com/videos/commodities-trading-with-matlab-81986.html), [Cointegration and Pairs Trading with Econometrics Toolbox](https://www.mathworks.com/videos/cointegration-and-pairs-trading-with-econometrics-toolbox-81799.html)
 
 * [Matlab risk management Toolbox](https://www.mathworks.com/products/risk-management.htmll)  - Official toolbox from Matlab
@@ -115,6 +123,15 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Quandl](https://www.quandl.com/) - free and premium data sources
 
+* [iqfeed](http://www.iqfeed.net/) - real time data feed
+
+* [quantquote](https://quantquote.com/) - tick and live data
+
+* [EOD data](http://eoddata.com/) - historical data
+
+* [EOD historical data](https://eodhistoricaldata.com/) - historical data
+
+
 ## Websites Forums Blogs
 
 * [Top Geeky Quant Blogs](https://alphaarchitect.com/2014/10/13/top-geeky-quant-blogs/#.VECOwfldV8E) - A quant blogs check out list
@@ -146,6 +163,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Trading with Python](http://tradingwithpython.blogspot.com/)
 
 * [python programming finance](https://pythonprogramming.net/finance-tutorials/) -- python finance tutorial and quantopian toturial
+
+* [Quant Econ](https://quantecon.org/) -- open source python and julia codes for economic modeling
 
 * [Portfolio Effect](https://www.portfolioeffect.com/) -- real time portfolio and risk management
 
