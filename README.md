@@ -45,9 +45,13 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade)  - Python Algorithmic Trading Library
 
+* [finmarketpy](https://github.com/cuemacro/finmarketpy)  - Python library for backtesting trading strategies
+
 * [IBridgePy](http://www.ibridgepy.com/)  - A python system derived from zipline
 
 * [IbPy](https://github.com/blampe/IbPy)  - Interactive Brokers Python API
+
+* [BitcoinExchangeFH](https://github.com/Aurora-Team/BitcoinExchangeFH) - Cryptocurrency exchange market data feed handler 
 
 * [gotrade](https://github.com/cyanly/gotrade/)  - Electronic trading and order management system written in Golang
 
@@ -131,6 +135,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [EOD historical data](https://eodhistoricaldata.com/) - historical data
 
+* [arctic](https://github.com/manahl/arctic) - High performance datastore for time series and tick data 
+
 
 ## Websites Forums Blogs
 
@@ -198,6 +204,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Qusma](http://qusma.com/) - Quantitative Systematic Market Analysis
 
+* [return and risk](http://www.returnandrisk.com/) -- Quantitative finance, analysis, and applications
+
 * [Physics of Finance](http://physicsoffinance.blogspot.com/) -- Inspiration from physics for thinking about economics, finance and social systems
 
 * [Quantum Financier](https://quantumfinancier.wordpress.com/) -- algorithmic trading
@@ -216,8 +224,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [The R Trader](http://www.thertrader.com/) - Using R in quant finance
 
-* [rbresearch](https://rbresearch.wordpress.com/) - Using R for trading strategy ideas in FX and equity 
-markets
+* [rbresearch](https://rbresearch.wordpress.com/) - Using R for trading strategy ideas in FX and equity markets
 
 * [NaN Quantivity](https://quantlife.wordpress.com/) - quant trading, statistical learning, coding and brainstorming
 
