@@ -248,7 +248,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 ## Papers and Books
 
-* [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B001FA0GGC/ref=as_sl_pc_qf_sp_asin_til?tag=quantitativet-20&linkCode=w00&linkId=I77Y2AV4YZVRZFN7&creativeASIN=B001FA0GGC) -- by [Ernie Chan](http://epchan.blogspot.com/) and his [Quantinsti](https://quantra.quantinsti.com/) training
+* [Quantitative Trading: Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B001FA0GGC/ref=as_sl_pc_qf_sp_asin_til?tag=quantitativet-20&linkCode=w00&linkId=I77Y2AV4YZVRZFN7&creativeASIN=B001FA0GGC), [Algorithmic Trading: Winning Strategies and Their Rationale](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale-ebook/dp/B00CY5HC0U/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1515250115&sr=1-3), [Machine Trading: Deploying Computer Algorithms to Conquer the Markets](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms/dp/1119219604) -- A must-read trilogy for retail traders by [Ernie Chan](http://epchan.blogspot.com/) and his [Quantinsti](https://quantra.quantinsti.com/) training
 
 * [Quantitative Trading with R](https://www.amazon.com/Quantitative-Trading-Understanding-Mathematical-Computational/dp/1137354070/ref=as_sl_pc_tf_til?tag=boucom-20&linkCode=w00&linkId=VMLBWHSVLMYG5K7T&creativeASIN=1137354070) -- and lecture notes [Quantitative Trading with R](http://www.rfortraders.com/) - 
 
