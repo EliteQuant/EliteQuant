@@ -51,6 +51,12 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [IbPy](https://github.com/blampe/IbPy)  - Interactive Brokers Python API
 
+* [qtpylib](https://github.com/ranaroussi/qtpylib)  -  Pythonic Algorithmic Trading via IbPy API and its [Website](http://qtpylib.io/)
+
+* [bt](https://github.com/pmorissette/bt)  - flexible backtesting for Python
+
+* [TradingGym](https://github.com/Yvictor/TradingGym)  - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
+
 * [BitcoinExchangeFH](https://github.com/Aurora-Team/BitcoinExchangeFH) - Cryptocurrency exchange market data feed handler 
 
 * [gotrade](https://github.com/cyanly/gotrade/)  - Electronic trading and order management system written in Golang
@@ -170,6 +176,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [python programming finance](https://pythonprogramming.net/finance-tutorials/) -- python finance tutorial and quantopian toturial
 
+* [python for finance](http://www.pythonforfinance.net/) -- python finance
+
 * [Quant Econ](https://quantecon.org/) -- open source python and julia codes for economic modeling
 
 * [Portfolio Effect](https://www.portfolioeffect.com/) -- real time portfolio and risk management
@@ -190,7 +198,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Gekko Quant](http://gekkoquant.com/) - Quantitative Trading
 
-* [Investment Idiocy](https://qoppac.blogspot.co.uk/) - Systematic Trading, Quantitative Finance, Investing, Financial Activism, Economic decision making
+* [Investment Idiocy](https://qoppac.blogspot.co.uk/) - Systematic Trading, Quantitative Finance, Investing, Financial Activism, Economic decision making by Robert Carver; [his book](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453) and [his Python library](https://github.com/robcarver17/pysystemtrade)
 
 * [Quantifiable Edges](http://quantifiableedges.blogspot.com/) - Assessing market action with indicators and history
 
@@ -243,3 +251,5 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Quantitative Trading](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B001FA0GGC/ref=as_sl_pc_qf_sp_asin_til?tag=quantitativet-20&linkCode=w00&linkId=I77Y2AV4YZVRZFN7&creativeASIN=B001FA0GGC) -- by [Ernie Chan](http://epchan.blogspot.com/) and his [Quantinsti](https://quantra.quantinsti.com/) training
 
 * [Quantitative Trading with R](https://www.amazon.com/Quantitative-Trading-Understanding-Mathematical-Computational/dp/1137354070/ref=as_sl_pc_tf_til?tag=boucom-20&linkCode=w00&linkId=VMLBWHSVLMYG5K7T&creativeASIN=1137354070) -- and lecture notes [Quantitative Trading with R](http://www.rfortraders.com/) - 
+
+* [data science ipython notebook](https://github.com/donnemartin/data-science-ipython-notebooks) -- from  Python essentials to Deep learning
