@@ -143,6 +143,10 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Quandl](https://www.quandl.com/) - free and premium data sources
 
+* [iex](https://iextrading.com/trading/market-data/) - free market data
+
+* [one tick](https://www.onetick.com/) - hostorical tick data
+
 * [iqfeed](http://www.iqfeed.net/) - real time data feed
 
 * [quantquote](https://quantquote.com/) - tick and live data
