@@ -27,6 +27,10 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [ZuluTrade](https://trade.collective2.com/) - The platform that allows investors subscribe to top-traders
 
+* [Tradingview](https://www.tradingview.com/chart/) - It provides free widges used for example [Huobi](https://www.huobipro.com/zh-cn/eos_usdt/exchange/)
+
+* [Investing.com](https://www.investing.com/indices/us-spx-500-futures-commentary) - Real time multi-assets and markets
+
 ## Trading System
 
 * [MetaTrader 5](https://www.metatrader5.com/) - Multi-Asset trading system
@@ -38,6 +42,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [RightEdge](http://www.rightedgesystems.com/) - Trading system
 
 * [AmiBroker](https://www.amibroker.com/) - Trading system
+
+* [Algo Terminal](https://www.algoterminal.com/) - C# Trading system
 
 * [NinjaTrader](http://ninjatrader.com/) - Trading system
 
@@ -68,6 +74,10 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [thOth](https://github.com/vermosen/thOth) -- open-source high frequency trading library in C++ 11
 
 * [qt_tradingclient](https://github.com/spinlockirqsave/qt_tradingclient_1) -- multithreaded Qt C++ trading application, QuantLib-1.2.1, CUDA 5.0
+
+* [Qt Bitcoin Trader](https://github.com/JulyIGHOR/QtBitcoinTrader) -- Qt C++ Bitcoin trading
+
+* [Gekko](https://github.com/askmike/gekko) -- A bitcoin trading bot written in node
 
 * [WPF/MVVM Real-Time Trading Application](https://www.codeproject.com/Articles/326641/WPF-MVVM-Real-Time-Trading-Application)  - Architechture
 
@@ -137,11 +147,13 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [quantquote](https://quantquote.com/) - tick and live data
 
+* [algoseek](https://www.algoseek.com/) - historical intraday
+
 * [EOD data](http://eoddata.com/) - historical data
 
 * [EOD historical data](https://eodhistoricaldata.com/) - historical data
 
-* [arctic](https://github.com/manahl/arctic) - High performance datastore for time series and tick data 
+* [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
 
 ## Websites Forums Blogs
