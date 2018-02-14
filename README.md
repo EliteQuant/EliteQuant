@@ -6,6 +6,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Quantitative Trading Platform](#quantitative-trading-platform)
 * [Trading System](#trading-system)
 * [Quantitative Library](#quantitative-library)
+* [Quantitative Model](#quantitative-model)
 * [Trading API](#trading-api)
 * [Data Source](data-source)
 * [Websites Forums Blogs](#websites-forums-blogs)
@@ -15,7 +16,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 ## Quantitative Trading Platform
 
-* [Quantopian](https://www.quantopian.com/) -- First Python-based online quantitative trading platform; its core library [zipline](https://github.com/quantopian/zipline) and its performance evaluation library [pyfolio](https://github.com/quantopian/pyfolio)
+* [Quantopian](https://www.quantopian.com/) -- First Python-based online quantitative trading platform; its core library [zipline](https://github.com/quantopian/zipline) and its performance evaluation library [pyfolio](https://github.com/quantopian/pyfolio); and [alphalens](https://github.com/quantopian/alphalens)
 
 * [QuantConnect](https://www.quantconnect.com/) -- C# based online quantitative trading platform; its core library [Lean](https://github.com/QuantConnect/Lean)
 
@@ -59,6 +60,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [qtpylib](https://github.com/ranaroussi/qtpylib)  -  Pythonic Algorithmic Trading via IbPy API and its [Website](http://qtpylib.io/)
 
+* [Quantdom](https://github.com/constverum/Quantdom)  - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI]
+
 * [bt](https://github.com/pmorissette/bt)  - flexible backtesting for Python
 
 * [TradingGym](https://github.com/Yvictor/TradingGym)  - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
@@ -73,11 +76,19 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [thOth](https://github.com/vermosen/thOth) -- open-source high frequency trading library in C++ 11
 
+* [blackbird](https://github.com/butor/blackbird) -- C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges
+
 * [qt_tradingclient](https://github.com/spinlockirqsave/qt_tradingclient_1) -- multithreaded Qt C++ trading application, QuantLib-1.2.1, CUDA 5.0
 
 * [Qt Bitcoin Trader](https://github.com/JulyIGHOR/QtBitcoinTrader) -- Qt C++ Bitcoin trading
 
+* [XChange](https://github.com/timmolter/XChange) -- Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges
+
 * [Gekko](https://github.com/askmike/gekko) -- A bitcoin trading bot written in node
+
+* [buttercoin](https://github.com/buttercoin/buttercoin) -- Opensource Bitcoin Exchange Software
+
+* [zenbot](https://github.com/DeviaVir/zenbot) --  A command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 * [WPF/MVVM Real-Time Trading Application](https://www.codeproject.com/Articles/326641/WPF-MVVM-Real-Time-Trading-Application)  - Architechture
 
@@ -103,6 +114,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [gotrade](https://github.com/cyanly/gotrade) - an electronic trading system written in Golang 
 
+* [gocryptotrader](https://github.com/thrasher-/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang
+
 * [gofinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging in golang
 
 * [goib](https://github.com/gofinance/ib) - Pure Go interface to Interactive Brokers IB API 
@@ -121,9 +134,12 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [MatTest](MatTest)  - Matlab backtest system
 
+
 ## Quantitative Library
 
 * [Quantlib](http://quantlib.org) -- famous c++ library for quantitative finance; tranlated into other langugages via Swig
+
+* [TA-Lib](https://github.com/mrjbq7/ta-lib) -- Python wrapper for TA-Lib
 
 * [DX Analytics](http://dx-analytics.com/) -- Python-based financial analytics library
 
@@ -132,6 +148,56 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [OpenGamma](http://www.opengamma.com/) -- Java analytics library named STRATA
 
 * [Quantiacs](https://github.com/Quantiacs) - [Matlab](https://github.com/Quantiacs/quantiacs-matlab) toolbox
+
+* [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
+
+* [arch](https://github.com/bashtage/arch) -- ARCH models in Python
+
+* [flint](https://github.com/twosigma/flint) - A Time Series Library for Apache Spark
+
+* [Statsmodels](http://www.statsmodels.org) -- Statsmodels’s Documentation
+
+
+## Quantitative Model
+
+* [deepstock](https://github.com/keon/deepstock) -- Technical experimentations to beat the stock market using deep learning
+
+* [qtrader](https://github.com/filangel/qtrader) -- Reinforcement Learning for Portfolio Management
+
+* [stockPredictor](https://github.com/Nazanin1369/stockPredictor) -- Predict stock movement with Machine Learning and Deep Learning algorithms
+
+* [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) -- Stock market environment using OpenGym with Deep Q-learning and Policy Gradient
+
+* [deep-algotrading](https://github.com/LiamConnell/deep-algotrading) -- deep learning techniques from regression to LSTM using financial data
+
+* [deep_trader](https://github.com/deependersingla/deep_trader) --  Use reinforcement learning on stock market and agent tries to learn trading. 
+
+* [Deep-Trading](https://github.com/Rachnog/Deep-Trading) -- Algorithmic trading with deep learning experiments
+
+* [Deep-Trading](https://github.com/ha2emnomer/Deep-Trading) -- Algorithmic Trading using RNN
+
+* [Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series) -- Using multidimensional LSTM neural networks to create a forecast for Bitcoin price
+
+* [QLearning_Trading](https://github.com/ucaiado/QLearning_Trading) -- Learning to trade under the reinforcement learning framework
+
+* [Day-Trading-Application](https://github.com/jbboltz123/Day-Trading-Application) -- Use deep learning to make accurate future stock return predictions
+
+* [bulbea](https://github.com/achillesrasquinha/bulbea) -- Deep Learning based Python Library for Stock Market Prediction and Modelling 
+
+* [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) -- source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"
+
+* [gym-trading](https://github.com/hackthemarket/gym-trading) -- Environment for reinforcement-learning algorithmic trading models
+
+* [Thesis](https://github.com/pnecchi/Thesis) -- Reinforcement Learning for Automated Trading
+
+* [DQN](https://github.com/jjakimoto/DQN) -- Reinforcement Learning for finance
+
+* [deep_portfolio](https://github.com/deependersingla/deep_portfolio) -- Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
+
+* [Deep-Reinforcement-Learning-in-Stock-Trading](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading) -- Using deep actor-critic model to learn best strategies in pair trading
+
+* [Stock-Price-Prediction-LSTM](https://github.com/NourozR/Stock-Price-Prediction-LSTM) -- OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network
+
 
 ## Trading API
 
@@ -156,6 +222,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [EOD data](http://eoddata.com/) - historical data
 
 * [EOD historical data](https://eodhistoricaldata.com/) - historical data
+
+* [intrinio](https://intrinio.com/) - financial data
 
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
@@ -194,7 +262,9 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [python for finance](http://www.pythonforfinance.net/) -- python finance
 
-* [Quant Econ](https://quantecon.org/) -- open source python and julia codes for economic modeling
+* [Quant Econ](https://quantecon.org/) -- open source python and julia codes for economic modeling; and lectures
+
+* [JuliaQuant](https://github.com/JuliaQuant) -- Quantitative Finance in Julia
 
 * [Portfolio Effect](https://www.portfolioeffect.com/) -- real time portfolio and risk management
 
@@ -261,6 +331,9 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Mechanical Markets](https://mechanicalmarkets.wordpress.com/)
 
 * [Humble Student of the Markets](http://humblestudentofthemarkets.blogspot.com/)
+
+* [Predict Stock Prices Using RNN](https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html)
+
 
 ## Papers and Books
 
