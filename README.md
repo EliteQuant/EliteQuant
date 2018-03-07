@@ -58,6 +58,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [IbPy](https://github.com/blampe/IbPy)  - Interactive Brokers Python API
 
+* [PyLimitBook](https://github.com/danielktaylor/PyLimitBook)  - Python implementation of fast limit-order book
+
 * [qtpylib](https://github.com/ranaroussi/qtpylib)  -  Pythonic Algorithmic Trading via IbPy API and its [Website](http://qtpylib.io/)
 
 * [Quantdom](https://github.com/constverum/Quantdom)  - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI]
@@ -84,11 +86,21 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [XChange](https://github.com/timmolter/XChange) -- Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges
 
+* [SubMicroTrading](https://github.com/gsitgithub/SubMicroTrading) -- Java Ultra Low Latency Trading Framework
+
 * [Gekko](https://github.com/askmike/gekko) -- A bitcoin trading bot written in node
+
+* [catalyst](https://github.com/enigmampc/catalyst) --  An Algorithmic Trading Library for Crypto-Assets in Python [Enigma](https://enigma.co/)
 
 * [buttercoin](https://github.com/buttercoin/buttercoin) -- Opensource Bitcoin Exchange Software
 
 * [zenbot](https://github.com/DeviaVir/zenbot) --  A command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+* [tribeca](https://github.com/michaelgrosner/tribeca) --  A high frequency, market making cryptocurrency trading platform in node.js
+
+* [rbtc_arbitrage](https://github.com/hstove/rbtc_arbitrage) --  A gem for automating arbitrage between Bitcoin exchanges.
+
+* [automated-trading](https://github.com/balupton/automated-trading) --  Automated Trading: Trading View Strategies => Bitfinex, itBit, DriveWealth
 
 * [WPF/MVVM Real-Time Trading Application](https://www.codeproject.com/Articles/326641/WPF-MVVM-Real-Time-Trading-Application)  - Architechture
 
