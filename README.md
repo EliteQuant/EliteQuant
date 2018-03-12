@@ -9,6 +9,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Quantitative Model](#quantitative-model)
 * [Trading API](#trading-api)
 * [Data Source](data-source)
+* [Cryptocurrency](#cryptocurrency)
 * [Websites Forums Blogs](#websites-forums-blogs)
 * [Papers and Books](#papers-and-books)
 
@@ -68,8 +69,6 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [TradingGym](https://github.com/Yvictor/TradingGym)  - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
 
-* [BitcoinExchangeFH](https://github.com/Aurora-Team/BitcoinExchangeFH) - Cryptocurrency exchange market data feed handler 
-
 * [gotrade](https://github.com/cyanly/gotrade/)  - Electronic trading and order management system written in Golang
 
 * [OpenHFT](https://github.com/OpenHFT)  - Java components for high-frequency trading
@@ -78,29 +77,9 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [thOth](https://github.com/vermosen/thOth) -- open-source high frequency trading library in C++ 11
 
-* [blackbird](https://github.com/butor/blackbird) -- C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges
-
 * [qt_tradingclient](https://github.com/spinlockirqsave/qt_tradingclient_1) -- multithreaded Qt C++ trading application, QuantLib-1.2.1, CUDA 5.0
 
-* [Qt Bitcoin Trader](https://github.com/JulyIGHOR/QtBitcoinTrader) -- Qt C++ Bitcoin trading
-
-* [XChange](https://github.com/timmolter/XChange) -- Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges
-
 * [SubMicroTrading](https://github.com/gsitgithub/SubMicroTrading) -- Java Ultra Low Latency Trading Framework
-
-* [Gekko](https://github.com/askmike/gekko) -- A bitcoin trading bot written in node
-
-* [catalyst](https://github.com/enigmampc/catalyst) --  An Algorithmic Trading Library for Crypto-Assets in Python [Enigma](https://enigma.co/)
-
-* [buttercoin](https://github.com/buttercoin/buttercoin) -- Opensource Bitcoin Exchange Software
-
-* [zenbot](https://github.com/DeviaVir/zenbot) --  A command-line cryptocurrency trading bot using Node.js and MongoDB.
-
-* [tribeca](https://github.com/michaelgrosner/tribeca) --  A high frequency, market making cryptocurrency trading platform in node.js
-
-* [rbtc_arbitrage](https://github.com/hstove/rbtc_arbitrage) --  A gem for automating arbitrage between Bitcoin exchanges.
-
-* [automated-trading](https://github.com/balupton/automated-trading) --  Automated Trading: Trading View Strategies => Bitfinex, itBit, DriveWealth
 
 * [WPF/MVVM Real-Time Trading Application](https://www.codeproject.com/Articles/326641/WPF-MVVM-Real-Time-Trading-Application)  - Architechture
 
@@ -122,11 +101,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [StockTicker](https://github.com/danielmarbach/StockTicker)  - C# trading system
 
-* [btcrobot](https://github.com/philsong/btcrobot) - Golang bitcoin trading bot
-
 * [gotrade](https://github.com/cyanly/gotrade) - an electronic trading system written in Golang 
-
-* [gocryptotrader](https://github.com/thrasher-/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang
 
 * [gofinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging in golang
 
@@ -145,7 +120,6 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [openAlgo Matlab](https://github.com/mtompkins/openAlgo/tree/master/Matlab)  - openAlgo's Matlab library
 
 * [MatTest](MatTest)  - Matlab backtest system
-
 
 ## Quantitative Library
 
@@ -239,6 +213,60 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
+## Cryptocurrency
+* [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
+
+* [cryptrader](https://cryptotrader.org/) - Node.js Bitcoin bot for MtGox/Bitstamp/BTC-E/CEX.IO; [cryptrade](https://github.com/donfanning/cryptrade) 
+
+* [BitcoinExchangeFH](https://github.com/Aurora-Team/BitcoinExchangeFH) - Cryptocurrency exchange market data feed handler 
+
+* [blackbird](https://github.com/butor/blackbird) -- C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges
+
+* [Peatio](https://www.peatio.tech) -- An open-source crypto currency exchange on [github](https://github.com/peatio/peatio)
+
+* [Qt Bitcoin Trader](https://github.com/JulyIGHOR/QtBitcoinTrader) -- Qt C++ Bitcoin trading
+
+* [ccxt](https://github.com/ccxt/ccxt) -- A JavaScript / Python / PHP cryptocurrency trading library with support for more than 90 bitcoin/altcoin exchanges
+
+* [r2](https://github.com/bitrinjani/r2) -- Qan automatic arbitrage trading system powered by Node.js + TypeScript
+
+* [bcoin](https://github.com/bcoin-org/bcoin) -- Javascript bitcoin library for node.js and [browsers](http://bcoin.io/)
+
+* [XChange](https://github.com/timmolter/XChange) -- Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges
+
+* [Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) -- Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++
+
+* [freqtrade](https://github.com/gcarq/freqtrade) -- Simple High Frequency Trading Bot for crypto currencies
+
+* [Gekko](https://github.com/askmike/gekko) -- A bitcoin trading bot written in node
+
+* [viabtc_exchange_server](https://github.com/viabtc/viabtc_exchange_server) -- A trading engine with high-speed performance and real-time notification
+
+* [catalyst](https://github.com/enigmampc/catalyst) --  An Algorithmic Trading Library for Crypto-Assets in Python [Enigma](https://enigma.co/)
+
+* [buttercoin](https://github.com/buttercoin/buttercoin) -- Opensource Bitcoin Exchange Software
+
+* [zenbot](https://github.com/DeviaVir/zenbot) --  A command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+* [tribeca](https://github.com/michaelgrosner/tribeca) --  A high frequency, market making cryptocurrency trading platform in node.js
+
+* [rbtc_arbitrage](https://github.com/hstove/rbtc_arbitrage) --  A gem for automating arbitrage between Bitcoin exchanges.
+
+* [automated-trading](https://github.com/balupton/automated-trading) --  Automated Trading: Trading View Strategies => Bitfinex, itBit, DriveWealth
+
+* [gocryptotrader](https://github.com/thrasher-/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang
+
+* [btcrobot](https://github.com/philsong/btcrobot) - Golang bitcoin trading bot
+
+* [bitex](https://github.com/blinktrade/bitex) -  Open Source Bitcoin Exchange; and its [frint-end](https://github.com/blinktrade/frontend)
+
+* [cryptoworks](https://cryptoworks.co/) - A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets; [cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage)
+
+* [crypto-exchange](https://github.com/passabilities/crypto-exchange) - list of crypto exchanges to interact with their API's in a uniform fashion
+
+* [bitcoin-abe](https://github.com/bitcoin-abe/bitcoin-abe) - block browser for Bitcoin and similar currencies
+
+* [MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line
 
 ## Websites Forums Blogs
 
