@@ -69,8 +69,6 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [TradingGym](https://github.com/Yvictor/TradingGym)  - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
 
-* [gotrade](https://github.com/cyanly/gotrade/)  - Electronic trading and order management system written in Golang
-
 * [OpenHFT](https://github.com/OpenHFT)  - Java components for high-frequency trading
 
 * [libtrading](https://github.com/libtrading/libtrading) -- c api, low latency, fix support
@@ -101,7 +99,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [StockTicker](https://github.com/danielmarbach/StockTicker)  - C# trading system
 
-* [gotrade](https://github.com/cyanly/gotrade) - an electronic trading system written in Golang 
+* [gotrade](https://github.com/cyanly/gotrade) - Electronic trading and order management system written in Golang
 
 * [gofinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging in golang
 
