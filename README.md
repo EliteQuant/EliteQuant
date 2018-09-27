@@ -176,6 +176,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [DQN](https://github.com/jjakimoto/DQN) -- Reinforcement Learning for finance
 
+* [Deep-Trading-Agent](https://github.com/samre12/deep-trading-agent) -- Deep Reinforcement Learning based Trading Agent for Bitcoin
+
 * [deep_portfolio](https://github.com/deependersingla/deep_portfolio) -- Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation.
 
 * [Deep-Reinforcement-Learning-in-Stock-Trading](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading) -- Using deep actor-critic model to learn best strategies in pair trading
@@ -267,6 +269,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line
 
 ## Websites Forums Blogs
+
+* [My Quant Blogs](https://letianzj.github.io/) - Personal blog for quant trading, portfolio management, and machine learning. 
 
 * [Top Geeky Quant Blogs](https://alphaarchitect.com/2014/10/13/top-geeky-quant-blogs/#.VECOwfldV8E) - A quant blogs check out list
 
