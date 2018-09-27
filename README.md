@@ -57,6 +57,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [IBridgePy](http://www.ibridgepy.com/)  - A python system derived from zipline
 
+* [Backtrader](https://www.backtrader.com/)  - Blog, trading community, and [github](https://github.com/backtrader/backtrader)
+
 * [IbPy](https://github.com/blampe/IbPy)  - Interactive Brokers Python API
 
 * [PyLimitBook](https://github.com/danielktaylor/PyLimitBook)  - Python implementation of fast limit-order book
@@ -159,6 +161,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Deep-Trading](https://github.com/Rachnog/Deep-Trading) -- Algorithmic trading with deep learning experiments
 
 * [Deep-Trading](https://github.com/ha2emnomer/Deep-Trading) -- Algorithmic Trading using RNN
+
+* [100 Day Machine Learning](https://github.com/Avik-Jain/100-Days-Of-ML-Code) -- Machine Learning tutorial with code
 
 * [Multidimensional-LSTM-BitCoin-Time-Series](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series) -- Using multidimensional LSTM neural networks to create a forecast for Bitcoin price
 
@@ -276,13 +280,21 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Quantocracy](http://quantocracy.com/) - Aggregation of news on quants
 
-* [Quantivity](http://quantocracy.com/) - quantitative and algorithmic trading
+* [seekingalpha](https://seekingalpha.com/) - Seeking Alpha community
+
+* [Quantivity](https://quantivity.wordpress.com/) - quantitative and algorithmic trading
 
 * [Wilmott](https://www.wilmott.com/) - quantitative finance community forum
+
+* [Elitetrader](https://www.elitetrader.com/) -- trading forum
+
+* [nuclearphynance](http://www.nuclearphynance.com/) -- quantitative finance forum
 
 * [Investopedia](https://www.investopedia.com/) -- The Encyclopedia of investments
 
 * [Quantpedia](https://www.quantpedia.com/) -- The Encyclopedia of Quantitative Trading Strategies
+
+* [EpChan](http://epchan.blogspot.com/) -- Dr. Ernie Chan's blog
 
 * [QuantStart](https://www.quantstart.com/) -- Michael Halls-Moore's quantstart, quant trading 101; its Python backtest platform [qstrader](https://github.com/mhallsmoore/qstrader) and [qsforex](https://github.com/mhallsmoore/qsforex)
 
@@ -326,7 +338,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Gekko Quant](http://gekkoquant.com/) - Quantitative Trading
 
-* [Investment Idiocy](https://qoppac.blogspot.co.uk/) - Systematic Trading, Quantitative Finance, Investing, Financial Activism, Economic decision making by Robert Carver; [his book](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453) and [his Python library](https://github.com/robcarver17/pysystemtrade)
+* [Investment Idiocy](https://qoppac.blogspot.com/) - Systematic Trading, Quantitative Finance, Investing, Financial Activism, Economic decision making by Robert Carver; [his book](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453) and [his Python library](https://github.com/robcarver17/pysystemtrade)
 
 * [Quantifiable Edges](http://quantifiableedges.blogspot.com/) - Assessing market action with indicators and history
 
