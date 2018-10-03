@@ -67,6 +67,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Quantdom](https://github.com/constverum/Quantdom)  - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI]
 
+* [ib_insync](https://github.com/erdewit/ib_insync)  - Python sync/async framework for Interactive Brokers API
+
 * [bt](https://github.com/pmorissette/bt)  - flexible backtesting for Python
 
 * [TradingGym](https://github.com/Yvictor/TradingGym)  - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
@@ -296,6 +298,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [EpChan](http://epchan.blogspot.com/) -- Dr. Ernie Chan's blog
 
+* [Quantinsti](https://quantra.quantinsti.com/) -- Quant Institute
+
 * [QuantStart](https://www.quantstart.com/) -- Michael Halls-Moore's quantstart, quant trading 101; its Python backtest platform [qstrader](https://github.com/mhallsmoore/qstrader) and [qsforex](https://github.com/mhallsmoore/qsforex)
 
 * [Algotrading 101](https://algotrading101.com/) -- Algo trading 101
@@ -390,9 +394,11 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 
 ## Papers and Books
+* [AQR Research and Related](https://www.aqr.com/Insights/Research/Journal-Article/)
+    * [Ilmanen, Antti. Expected returns: An investor's guide to harvesting market rewards. John Wiley & Sons, 2011.](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726)
+    * [Pedersen, Lasse Heje. Efficiently inefficient: how smart money invests and market prices are determined. Princeton University Press, 2015.](https://www.amazon.com/Efficiently-Inefficient-Invests-Market-Determined/dp/0691166196/ref=pd_bxgy_2?_encoding=UTF8&pd_rd_i=0691166196&pd_rd_r=b511d2ef-c6e3-11e8-b4bb-f94ae1ae4c7a&pd_rd_w=mGKYZ&pd_rd_wg=14dBQ&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3f9889ac-6c45-46e8-b515-3af650557207&pf_rd_r=RSR0147DYSQ1X09KCWKH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=RSR0147DYSQ1X09KCWKH)
 
-* [Quantitative Trading: Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B001FA0GGC/ref=as_sl_pc_qf_sp_asin_til?tag=quantitativet-20&linkCode=w00&linkId=I77Y2AV4YZVRZFN7&creativeASIN=B001FA0GGC), [Algorithmic Trading: Winning Strategies and Their Rationale](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale-ebook/dp/B00CY5HC0U/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1515250115&sr=1-3), [Machine Trading: Deploying Computer Algorithms to Conquer the Markets](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms/dp/1119219604) -- A must-read trilogy for retail traders by [Ernie Chan](http://epchan.blogspot.com/) and his [Quantinsti](https://quantra.quantinsti.com/) training
-
-* [Quantitative Trading with R](https://www.amazon.com/Quantitative-Trading-Understanding-Mathematical-Computational/dp/1137354070/ref=as_sl_pc_tf_til?tag=boucom-20&linkCode=w00&linkId=VMLBWHSVLMYG5K7T&creativeASIN=1137354070) -- and lecture notes [Quantitative Trading with R](http://www.rfortraders.com/) - 
-
-* [data science ipython notebook](https://github.com/donnemartin/data-science-ipython-notebooks) -- from  Python essentials to Deep learning
+* [Ernie Chan's](http://epchan.blogspot.com/) trilogy
+    * [Chan, Ernie. Quantitative trading: how to build your own algorithmic trading business. Vol. 430. John Wiley & Sons, 2009.](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B001FA0GGC/ref=as_sl_pc_qf_sp_asin_til?tag=quantitativet-20&linkCode=w00&linkId=I77Y2AV4YZVRZFN7&creativeASIN=B001FA0GGC)
+    * [Chan, Ernie. Algorithmic trading: winning strategies and their rationale. Vol. 625. John Wiley & Sons, 2013.](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale-ebook/dp/B00CY5HC0U/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1515250115&sr=1-3)
+    * [Chan, Ernest P. Machine Trading: Deploying Computer Algorithms to Conquer the Markets. John Wiley & Sons, 2017.](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms/dp/1119219604)
