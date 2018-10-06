@@ -32,6 +32,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Tradingview](https://www.tradingview.com/chart/) - It provides free widges used for example [Huobi](https://www.huobipro.com/zh-cn/eos_usdt/exchange/)
 
 * [Investing.com](https://www.investing.com/indices/us-spx-500-futures-commentary) - Real time multi-assets and markets
+* [KloudTrader Narwhal](https://kloudtrader.com/Narwhal) - Trading algorithm (deployment platform)[https://www.youtube.com/watch?v=4hfSJ769bDk] with flat-rate commission-free brokerage 
 
 ## Trading System
 
