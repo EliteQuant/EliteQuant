@@ -10,8 +10,9 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Trading API](#trading-api)
 * [Data Source](#data-source)
 * [Cryptocurrency](#cryptocurrency)
+* [Companies](companies)
+* [Fintech](fintech)
 * [Websites Forums Blogs](#websites-forums-blogs)
-* [Papers and Books](#papers-and-books)
 
 - - -
 
@@ -85,6 +86,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [SubMicroTrading](https://github.com/gsitgithub/SubMicroTrading) - Java Ultra Low Latency Trading Framework
 
 * [WPF/MVVM Real-Time Trading Application](https://www.codeproject.com/Articles/326641/WPF-MVVM-Real-Time-Trading-Application) - Architechture
+
+* [TradeLink](https://github.com/pracplayopen/core)  - TradeLink, one of the earliest open source trading system
 
 * [Reactive Trader](https://github.com/AdaptiveConsulting) - using reactive Rx framework, includes [Reactive Trader](https://github.com/AdaptiveConsulting/ReactiveTrader) and [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud). The demo is [here](https://web-demo.adaptivecluster.com/).
 
@@ -217,9 +220,14 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
 ## Cryptocurrency
+
 * [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
 
+* [cryptrader](https://cryptotrader.org/) - Node.js Bitcoin bot for MtGox/Bitstamp/BTC-E/CEX.IO; [cryptrade](https://github.com/donfanning/cryptrade) 
+
 * [BitcoinExchangeFH](https://github.com/BitcoinExchangeFH/BitcoinExchangeFH) - Cryptocurrency exchange market data feed handler 
+
+* [hummingbot](http://hummingbot.io) - free [open source](https://github.com/CoinAlpha/hummingbot/) crypto trading bot that supports both DEXes and CEXes
 
 * [blackbird](https://github.com/butor/blackbird) - C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges
 
@@ -261,11 +269,73 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [bitex](https://github.com/blinktrade/bitex) - Open Source Bitcoin Exchange; and its [front-end](https://github.com/blinktrade/frontend)
 
+* [cryptoworks](https://cryptoworks.co/) - A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets; [cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage)
+
 * [crypto-exchange](https://github.com/passabilities/crypto-exchange) - list of crypto exchanges to interact with their API's in a uniform fashion
 
 * [bitcoin-abe](https://github.com/bitcoin-abe/bitcoin-abe) - block browser for Bitcoin and similar currencies
 
 * [MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line
+
+## Companies
+
+Not trying to be exhaustive
+
+* [Sell Side](https://en.wikipedia.org/wiki/List_of_investment_banks)
+
+* [FIA PTG](http://www.marketswiki.com/wiki/Principal_Traders_Group)
+
+* [Allston Trading](http://www.marketswiki.com/wiki/Allston_Trading,_LLC)
+
+* [CTC](http://www.marketswiki.com/wiki/Chicago_Trading_Company)
+
+* [Citadel](https://en.wikipedia.org/wiki/Citadel_LLC)
+
+* [D.E. Shaw](https://en.wikipedia.org/wiki/D._E._Shaw_%26_Co.)
+
+* [DRW](http://www.marketswiki.com/wiki/DRW)
+
+* [HRT](https://en.wikipedia.org/wiki/Hudson_River_Trading)
+
+* [IMC](https://en.wikipedia.org/wiki/IMC_Financial_Markets)
+
+* [Infinium](http://www.marketswiki.com/wiki/Infinium_Capital_Management,_LLC)
+
+* [Jane Street](https://en.wikipedia.org/wiki/Jane_Street_Capital)
+
+* [Jump Trading](http://www.marketswiki.com/wiki/Jump_Trading_LLC)
+
+* [Millennium](https://en.wikipedia.org/wiki/Millennium_Management,_LLC)
+
+* [Optiver](https://en.wikipedia.org/wiki/Optiver)
+
+* [Renaissance](https://en.wikipedia.org/wiki/Renaissance_Technologies)
+
+* [SIG](https://en.wikipedia.org/wiki/Susquehanna_International_Group)
+
+* [Tower Research](https://en.wikipedia.org/wiki/Tower_Research)
+
+* [Two Sigma](https://en.wikipedia.org/wiki/Two_Sigma)
+
+* [Virtu Financial](https://en.wikipedia.org/wiki/Virtu_Financial)
+
+Commodity Focused
+
+* [Cargill](https://en.wikipedia.org/wiki/Cargill)
+
+* [Glencore](https://en.wikipedia.org/wiki/Glencore)
+
+* [Mercuria](https://en.wikipedia.org/wiki/Mercuria_Energy_Group)
+
+* [Trafigura](https://en.wikipedia.org/wiki/Trafigura)
+
+* [Vigor](https://en.wikipedia.org/wiki/Vitol)
+
+## Fintech
+
+* [Knesho](https://www.kensho.com/)
+
+* [Symphony](https://en.wikipedia.org/wiki/Symphony_Communication)
 
 ## Websites Forums Blogs
 
@@ -339,6 +409,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Quantifiable Edges](https://quantifiableedges.com/blog/)/[old version](https://quantifiableedges.blogspot.com/) - Assessing market action with indicators and history
 
+* [My Simple Quant](http://mysimplequant.blogspot.com/) - Market analysis utilizing historical, back-tessted data
+
 * [Vix and more](https://vixandmore.blogspot.com/) - discussions on Vix
 
 * [Timely Portfolio](https://timelyportfolio.blogspot.com/) - Strategies and tests in R
@@ -352,6 +424,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Physics of Finance](https://physicsoffinance.blogspot.com/) - Inspiration from physics for thinking about economics, finance and social systems
 
 * [Quantum Financier](https://quantumfinancier.wordpress.com/) - algorithmic trading
+
+* [Trading the Odds](http://www.tradingtheodds.com/) -- market timing & quantitative analysis
 
 * [CSSA](https://cssanalytics.wordpress.com/) - new concepts in quantitative research
 
@@ -380,14 +454,3 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 * [Humble Student of the Markets](https://humblestudentofthemarkets.blogspot.com/)
 
 * [Predict Stock Prices Using RNN](https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html)
-
-
-## Papers and Books
-* [AQR Research and Related](https://www.aqr.com/Insights/Research/Journal-Article/)
-    * [Ilmanen, Antti. Expected returns: An investor's guide to harvesting market rewards. John Wiley & Sons, 2011.](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726)
-    * [Pedersen, Lasse Heje. Efficiently inefficient: how smart money invests and market prices are determined. Princeton University Press, 2015.](https://www.amazon.com/Efficiently-Inefficient-Invests-Market-Determined/dp/0691166196/ref=pd_bxgy_2?_encoding=UTF8&pd_rd_i=0691166196&pd_rd_r=b511d2ef-c6e3-11e8-b4bb-f94ae1ae4c7a&pd_rd_w=mGKYZ&pd_rd_wg=14dBQ&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3f9889ac-6c45-46e8-b515-3af650557207&pf_rd_r=RSR0147DYSQ1X09KCWKH&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=RSR0147DYSQ1X09KCWKH)
-
-* [Ernie Chan's](https://epchan.blogspot.com/) trilogy:
-    * [Chan, Ernie. Quantitative trading: how to build your own algorithmic trading business. Vol. 430. John Wiley & Sons, 2009.](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business-ebook/dp/B001FA0GGC/ref=as_sl_pc_qf_sp_asin_til?tag=quantitativet-20&linkCode=w00&linkId=I77Y2AV4YZVRZFN7&creativeASIN=B001FA0GGC)
-    * [Chan, Ernie. Algorithmic trading: winning strategies and their rationale. Vol. 625. John Wiley & Sons, 2013.](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale-ebook/dp/B00CY5HC0U/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1515250115&sr=1-3)
-    * [Chan, Ernest P. Machine Trading: Deploying Computer Algorithms to Conquer the Markets. John Wiley & Sons, 2017.](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms/dp/1119219604)
