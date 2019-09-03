@@ -295,6 +295,10 @@ Not trying to be exhaustive
 
 * [DRW](http://www.marketswiki.com/wiki/DRW)
 
+* [Flow Traders](https://www.flowtraders.com/)
+
+* [GTS](http://www.gtsx.com/)
+
 * [HRT](https://en.wikipedia.org/wiki/Hudson_River_Trading)
 
 * [IMC](https://en.wikipedia.org/wiki/IMC_Financial_Markets)
@@ -309,15 +313,23 @@ Not trying to be exhaustive
 
 * [Optiver](https://en.wikipedia.org/wiki/Optiver)
 
+* [Quantlab Financial](https://www.quantlab.com/)
+
 * [Renaissance](https://en.wikipedia.org/wiki/Renaissance_Technologies)
 
 * [SIG](https://en.wikipedia.org/wiki/Susquehanna_International_Group)
 
 * [Tower Research](https://en.wikipedia.org/wiki/Tower_Research)
 
+* [Tradebot Systems](https://en.wikipedia.org/wiki/Tradebot)
+
 * [Two Sigma](https://en.wikipedia.org/wiki/Two_Sigma)
 
 * [Virtu Financial](https://en.wikipedia.org/wiki/Virtu_Financial)
+
+* [XR Trading](http://www.xrtrading.com/)
+
+* [XTX Markets](https://en.wikipedia.org/wiki/XTX_Markets)
 
 Commodity Focused
 
