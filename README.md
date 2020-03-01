@@ -277,6 +277,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line
 
+* [tai](https://github.com/fremantle-capital/tai) - An open source, composable, real time, market data and trade execution toolkit. Written in Elixir
+
 ## Companies
 
 Not trying to be exhaustive
