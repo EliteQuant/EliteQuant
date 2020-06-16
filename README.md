@@ -190,6 +190,7 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [Stock-Price-Prediction-LSTM](https://github.com/NourozR/Stock-Price-Prediction-LSTM) - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network
 
+* [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
 
 ## Trading API
 
