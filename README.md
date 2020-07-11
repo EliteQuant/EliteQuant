@@ -10,8 +10,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [Trading API](#trading-api)
 * [Data Source](#data-source)
 * [Cryptocurrency](#cryptocurrency)
-* [Companies](companies)
-* [Fintech](fintech)
+* [Companies](#companies)
+* [Fintech](#fintech)
 * [Websites Forums Blogs](#websites-forums-blogs)
 
 - - -
@@ -321,6 +321,10 @@ Not trying to be exhaustive
 * [Quantlab Financial](https://www.quantlab.com/)
 
 * [Renaissance](https://en.wikipedia.org/wiki/Renaissance_Technologies)
+
+* [Bridgewater Associates](https://en.wikipedia.org/wiki/Bridgewater_Associates)
+
+* [Man Group](https://en.wikipedia.org/wiki/Man_Group), [AHL](https://www.ahl.com/)
 
 * [SIG](https://en.wikipedia.org/wiki/Susquehanna_International_Group)
 
