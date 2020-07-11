@@ -1,7 +1,7 @@
 # EliteQuant
 A list of online resources for quantitative modeling, trading, portfolio management 
 
-Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/EliteQuant), there are lots of other valuable online resources. We are not trying to be exhaustive. Please feel free to contact us if you believe something is worth recommending. A general rule of thumb for open source projects is having already received 10 stars on github.
+There are lots of other valuable online resources. We are not trying to be exhaustive. Please feel free to send a pull request if you believe something is worth recommending. A general rule of thumb for open source projects is having already received 100 stars on github.
 
 * [Quantitative Trading Platform](#quantitative-trading-platform)
 * [Trading System](#trading-system)
@@ -220,6 +220,8 @@ Besides those in this list and in [gitee list](https://gitee.com/EliteQuant/Elit
 
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
+* [SEC EDGAR API](https://sec-api.io/) -- Query company filings on SEC EDGAR
+
 ## Cryptocurrency
 
 * [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
@@ -354,8 +356,6 @@ Commodity Focused
 
 ## Websites Forums Blogs
 
-* [My Quant Blogs](https://letianquant.com/) - Personal blog for quant trading, portfolio management, and machine learning. 
-
 * [Top Geeky Quant Blogs](https://alphaarchitect.com/2014/10/13/top-geeky-quant-blogs/#.VECOwfldV8E) - A quant blogs check out list
 
 * [Quantocracy](https://quantocracy.com/) - Aggregation of news on quants
@@ -451,6 +451,8 @@ Commodity Focused
 * [Deniz's Note](https://denizstij.blogspot.com/) - blog of a quant Deniz Turan
 
 * [Quant at risk](http://www.quantatrisk.com/) - quantitative analysis and risk management
+
+* [Quant Blog](https://letianzj.github.io/) - Quantitative trading, portfolio management, and machine learning, with [source codes on Github](https://github.com/letianzj/QuantResearch)
 
 * [The R Trader](https://www.thertrader.com/) - Using R in quant finance
 
