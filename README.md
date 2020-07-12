@@ -53,6 +53,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [QuantTools](https://quanttools.bitbucket.io/) - Enhanced Quantitative Trading Modelling in R
 
+* [vnpy](https://github.com/vnpy/vnpy) - A popular and powerful trading platform
+
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
 
 * [finmarketpy](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies
@@ -71,9 +73,15 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [ib_insync](https://github.com/erdewit/ib_insync) - Python sync/async framework for Interactive Brokers API
 
+* [rqalpha](https://github.com/ricequant/rqalpha) - A popular trading platform
+
 * [bt](https://github.com/pmorissette/bt) - flexible backtesting for Python
 
 * [TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
+
+* [btgym](https://github.com/Kismuz/btgym) - Gym-compatible backtesting
+
+* [prophet](https://github.com/Emsu/prophet) - Python backtesting and trading platform
 
 * [OpenHFT](https://github.com/OpenHFT) - Java components for high-frequency trading
 
@@ -150,6 +158,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 ## Quantitative Model
 
+* [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - A collection of AI resources in finance
+
 * [deepstock](https://github.com/keon/deepstock) - Technical experimentations to beat the stock market using deep learning
 
 * [qtrader](https://github.com/filangel/qtrader) - Reinforcement Learning for Portfolio Management
@@ -191,6 +201,18 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [Stock-Price-Prediction-LSTM](https://github.com/NourozR/Stock-Price-Prediction-LSTM) - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network
 
 * [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
+
+* [Personae](https://github.com/Ceruleanacg/Personae) - Quantitative trading with deep learning
+
+* [tensortrade](https://github.com/tensortrade-org/tensortrade) - Reinforcement learning and trading
+
+* [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - AI models such as GAN and PPO applied to stock markets
+
+* [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Machine learning for algorithmic trading book
+
+* [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Algorithmic Trading with Python book (2020)
+
+* [machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management by [firmai.org](https://www.firmai.org/)
 
 ## Trading API
 
@@ -281,6 +303,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line
 
 * [tai](https://github.com/fremantle-capital/tai) - An open source, composable, real time, market data and trade execution toolkit. Written in Elixir
+
+* [crypto-signal](https://github.com/CryptoSignal/crypto-signal) - Technical signals for multiple exchanges
 
 ## Companies
 
@@ -475,3 +499,5 @@ Commodity Focused
 * [Humble Student of the Markets](https://humblestudentofthemarkets.blogspot.com/)
 
 * [Predict Stock Prices Using RNN](https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html)
+
+* [BlackArbs](http://www.blackarbs.com/blog) - blog and [machine learning notebooks on Github](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
