@@ -18,6 +18,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 ## Quantitative Trading Platform
 
+* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - Awesome quant is another curated list of quant resources
+
 * [Quantopian](https://www.quantopian.com/) - First Python-based online quantitative trading platform; its core library [zipline](https://github.com/quantopian/zipline) and its performance evaluation library [pyfolio](https://github.com/quantopian/pyfolio); and [alphalens](https://github.com/quantopian/alphalens)
 
 * [QuantConnect](https://www.quantconnect.com/) - C# based online quantitative trading platform; its core library [Lean](https://github.com/QuantConnect/Lean)
@@ -157,6 +159,10 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 
 ## Quantitative Model
+
+* [awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) - A list of machine learning resources for trading
+
+* [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Another list of machine learning resources for trading
 
 * [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - A collection of AI resources in finance
 
