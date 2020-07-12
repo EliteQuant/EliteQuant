@@ -318,7 +318,7 @@ Not trying to be exhaustive
 
 * [Sell Side](https://en.wikipedia.org/wiki/List_of_investment_banks)
 
-* [FIA PTG](http://www.marketswiki.com/wiki/Principal_Traders_Group)
+* [FIA PTG](http://www.marketswiki.com/wiki/Principal_Traders_Group) and [FIA Europe](https://www.fia.org/epta-membership)
 
 * [Allston Trading](http://www.marketswiki.com/wiki/Allston_Trading,_LLC)
 
