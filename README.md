@@ -384,7 +384,13 @@ Commodity Focused
 
 ## Fintech
 
+* [Alpaca](https://www.alpaca.ai/)
+
 * [Knesho](https://www.kensho.com/)
+
+* [Neotic](https://neotic.ai/)
+
+* [Numerai](https://en.wikipedia.org/wiki/Numerai)
 
 * [Symphony](https://en.wikipedia.org/wiki/Symphony_Communication)
 
