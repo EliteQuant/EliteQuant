@@ -134,6 +134,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [openAlgo Matlab](https://github.com/mtompkins/openAlgo/tree/master/Matlab) - openAlgo's Matlab library
 
 * [MatTest](https://github.com/edisonhyc/MatTest) - Matlab backtest system
+* [fastquant](https://github.com/enzoampil/fastquant) - Wrapper for [backtrader](https://www.backtrader.com/) that allows you to backtest and optimize your trading strategies with only 3 lines of code
 
 ## Quantitative Library
 
