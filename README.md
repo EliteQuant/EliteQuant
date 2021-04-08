@@ -314,6 +314,10 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 ## Companies
 
+Open source groups (Github)
+
+* [awesome-financial-open-source](https://github.com/gavincyi/awesome-financial-open-source)
+
 Not trying to be exhaustive
 
 * [Sell Side](https://en.wikipedia.org/wiki/List_of_investment_banks)
