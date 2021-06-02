@@ -172,6 +172,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [stockPredictor](https://github.com/Nazanin1369/stockPredictor) - Predict stock movement with Machine Learning and Deep Learning algorithms
 
+* [Empyrial](https://github.com/ssantoshp/Empyrial) - AI and data-driven quantitative portfolio management library for portfolio risk and performance analysis
+
 * [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient
 
 * [deep-algotrading](https://github.com/LiamConnell/deep-algotrading) - deep learning techniques from regression to LSTM using financial data
