@@ -394,6 +394,8 @@ Commodity Focused
 
 * [Symphony](https://en.wikipedia.org/wiki/Symphony_Communication)
 
+* [Ghostfol.io](https://ghostfol.io) - Open source wealth management software
+
 ## Websites Forums Blogs
 
 * [Top Geeky Quant Blogs](https://alphaarchitect.com/2014/10/13/top-geeky-quant-blogs/#.VECOwfldV8E) - A quant blogs check out list
