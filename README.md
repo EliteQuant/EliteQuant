@@ -504,7 +504,7 @@ Commodity Focused
 
 * [Meb Faber Research](https://mebfaber.com/)
 
-* [Big Mike Trading](https://www.youtube.com/user/BigMikeTrading/videos) - Youtube chanel in quant trading
+* [Big Mike Trading](https://www.youtube.com/user/BigMikeTrading/videos) - Youtube channel in quant trading
 
 * [Mechanical Markets](https://mechanicalmarkets.wordpress.com/)
 
