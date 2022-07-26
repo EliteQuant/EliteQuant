@@ -34,6 +34,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [Tradingview](https://www.tradingview.com/chart/) - It provides free widgets used for example [Huobi](https://www.hbg.com/zh-cn/exchange/?s=eos_usdt)
 
+* [ScreeningTale](https://www.screeningtale.com/screener/) - Tool for backtesting screener strategies
+
 * [Investing.com](https://www.investing.com/indices/us-spx-500-futures-commentary) - Real time multi-assets and markets
 * [KloudTrader Narwhal](https://kloudtrader.com/Narwhal) - Trading algorithm [deployment platform](https://www.youtube.com/watch?v=4hfSJ769bDk) with flat-rate commission-free brokerage 
 
