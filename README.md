@@ -143,6 +143,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [DX Analytics](https://dx-analytics.com/) - Python-based financial analytics library
 
+* [Stock Indicators for .NET](https://dotnet.stockindicators.dev) - NuGet library to transform price quotes into technical market metrics.  Also includes a Python wrapper.
+
 * [FinMath](http://finmath.net/) - Java analytics library
 
 * [OpenGamma](https://opengamma.com/) - Java analytics library named STRATA
