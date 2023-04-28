@@ -59,6 +59,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
 
+* [Basana](https://github.com/gbeced/basana) - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
+
 * [finmarketpy](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies
 
 * [IBridgePy](http://www.ibridgepy.com/) - A Python system derived from zipline
