@@ -386,9 +386,7 @@ Commodity Focused
 
 * [Alpaca](https://www.alpaca.ai/)
 
-* [Knesho](https://www.kensho.com/)
-
-* [Neotic](https://neotic.ai/)
+* [Kensho](https://www.kensho.com/)
 
 * [Numerai](https://en.wikipedia.org/wiki/Numerai)
 
