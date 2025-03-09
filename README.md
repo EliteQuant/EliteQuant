@@ -141,6 +141,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [TA-Lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib
 
+* [skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
+
 * [DX Analytics](https://dx-analytics.com/) - Python-based financial analytics library
 
 * [FinMath](http://finmath.net/) - Java analytics library
