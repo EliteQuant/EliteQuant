@@ -250,6 +250,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [SEC EDGAR API](https://sec-api.io/) -- Query company filings on SEC EDGAR
 
+* [Financial Data](https://financialdata.net/) - Stock market data, financial statements, insider and institutional trading data, sustainability data, and more
+
 ## Cryptocurrency
 
 * [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
