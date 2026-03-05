@@ -311,6 +311,9 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [tai](https://github.com/fremantle-capital/tai) - An open source, composable, real time, market data and trade execution toolkit. Written in Elixir
 
 * [crypto-signal](https://github.com/CryptoSignal/crypto-signal) - Technical signals for multiple exchanges
+  
+* [ChartScout](https://Chartscout.io) - Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
+
 
 ## Companies
 
