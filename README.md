@@ -250,7 +250,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [SEC EDGAR API](https://sec-api.io/) -- Query company filings on SEC EDGAR
 
-* [13F Insight](https://13finsight.com/) - institutional holdings research platform for tracking SEC 13F filings, manager portfolios, and portfolio changes
+* [13F Insight](https://13finsight.com/?utm_source=github&utm_medium=referral&utm_campaign=seo_outreach_20260414&utm_content=EliteQuant_EliteQuant) - institutional holdings research platform for tracking SEC 13F filings, manager portfolios, and portfolio changes
 
 ## Cryptocurrency
 
