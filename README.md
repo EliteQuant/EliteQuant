@@ -246,6 +246,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [intrinio](https://intrinio.com/) - financial data
 
+* [Helium](https://heliumtrades.com/mcp-page/) - real-time news with bias scoring, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. Available as [MCP server](https://github.com/connerlambden/helium-mcp) or REST API
+
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
 * [SEC EDGAR API](https://sec-api.io/) -- Query company filings on SEC EDGAR
