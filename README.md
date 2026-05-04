@@ -513,3 +513,5 @@ Commodity Focused
 * [Predict Stock Prices Using RNN](https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html)
 
 * [BlackArbs](http://www.blackarbs.com/blog) - blog and [machine learning notebooks on Github](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — Quantitative prediction market platform with CLOB exchange on Base L2. 10 AI agents, real-time orderbook data, pre-launch TGE token predictions. [API](https://cymetica.com/api/docs) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
