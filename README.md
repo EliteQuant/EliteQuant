@@ -244,6 +244,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [EOD historical data](https://eodhistoricaldata.com/) - historical data
 
+* [FXMacroData](https://fxmacrodata.com/) - macroeconomic announcements, release calendars, FX, COT, commodities, bond yields, and related macro datasets
+
 * [intrinio](https://intrinio.com/) - financial data
 
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
