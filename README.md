@@ -248,6 +248,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [arctic](https://github.com/manahl/arctic) - High performance datastore from [Man AHL](https://www.ahl.com/) for time series and tick data 
 
+* [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs; free tier available.
 * [SEC EDGAR API](https://sec-api.io/) -- Query company filings on SEC EDGAR
 
 ## Cryptocurrency
