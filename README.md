@@ -65,6 +65,8 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [Backtrader](https://www.backtrader.com/) - Blog, trading community, and [github](https://github.com/backtrader/backtrader)
 
+* [OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Python framework for single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization.
+
 * [IbPy](https://github.com/blampe/IbPy) - Interactive Brokers Python API
 
 * [PyLimitBook](https://github.com/danielktaylor/PyLimitBook) - Python implementation of fast limit-order book
