@@ -414,6 +414,8 @@ Commodity Focused
 
 * [Quantpedia](https://www.quantpedia.com/) - The Encyclopedia of Quantitative Trading Strategies
 
+* [eStockes Reality Check](https://estockes.com/reality-check) - Free browser tool for comparing a daily trading rule on one U.S. stock or ETF with holding the same instrument over the same dates, with modeled costs and execution assumptions.
+
 * [EpChan](https://epchan.blogspot.com/) - Dr. Ernie Chan's blog
 
 * [Quantinsti](https://quantra.quantinsti.com/) - Quant Institute
